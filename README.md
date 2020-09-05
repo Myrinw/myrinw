@@ -11,5 +11,5 @@ My stack for building awesome web apps is:
 - Express
 - Sequelize
 
-Currently i am looking for an oppertunity to build awesome websites for a company.
+Currently i am looking for an oppertunity to build awesome websites for a awesome company.
 Feel free to contact any time.
