@@ -10,5 +10,6 @@ My stack for building awesome web apps is:
 - Redux
 - Express
 - Sequelize
+
 Currently i am looking for an oppertunity to build awesome websites for a company.
 Feel free to contact any time.
