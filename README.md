@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My there name is myrin and i am a passionate javascript developer. A project of mine you should definately check out is Tastebook.
+My name is myrin and i am a passionate javascript developer. A project of mine you should definately check out is Tastebook.
 My stack for building awesome web apps is:
 - Html
 - css/scss
