@@ -13,7 +13,6 @@ My stack for building awesome web apps is:
 - Sequelize
 - Postgress
 
-Currently i am looking for an oppertunity to build awesome websites for an awesome company.
 Feel free to contact any time.
 
 https://myrinw.github.io/portfolio/
