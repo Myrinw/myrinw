@@ -6,6 +6,7 @@ My stack for building awesome web apps is:
 - Css/Scss
 - Bootstrap/Material-ui
 - Javascript/Typescript
+- Wordpress
 - Node.js
 - React
 - Redux
