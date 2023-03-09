@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is myrin, and i am a web developer. A project of mine you should definately check out is Tastebook.
+My name is myrin, and i am a web developer.
 My stack for building awesome web apps is:
 - Html
 - Css/Scss
@@ -14,6 +14,5 @@ My stack for building awesome web apps is:
 - Sequelize
 - Postgress
 
-Feel free to contact any time.
+Feel free to contact me.
 
-https://myrinw.github.io/portfolio/
