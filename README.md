@@ -13,6 +13,7 @@ My stack for building awesome web apps is:
 - Express
 - Nest.js
 - Wordpress
+- PHP
 - Sequelize
 - Postgress
 
