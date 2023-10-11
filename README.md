@@ -2,17 +2,18 @@
 
 My name is myrin, and i am a web developer.
 My stack for building awesome web apps is:
-- Html
-- Css/Scss
-- Bootstrap/Material-ui
-- Javascript/Typescript
-- Wordpress
-- Node.js
-- React
+
+- Html/Css/Scss
+- React.js
+- Next.js
 - Redux
+- Supabase/Firebase
+- Javascript/Typescript
+- Node.js
 - Express
+- Nest.js
+- Wordpress
 - Sequelize
 - Postgress
 
-Feel free to contact me.
 
