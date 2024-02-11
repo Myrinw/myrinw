@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is myrin.
-My stack for making awesome (web)apps is:
+My stack for making awesome webapps is:
 
 - Html/Css/Scss
 - Javascript/Typescript
