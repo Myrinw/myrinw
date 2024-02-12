@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-My name is myrin.
 My stack for making awesome webapps is:
 
 - Html/Css/Scss
